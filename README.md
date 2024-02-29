@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/code-programmer-learn-to-RN8FdaB6T1bkkI5n4I" width="100"/>
+  <img src="https://giphy.com/stickers/code-programmer-learn-to-RN8FdaB6T1bkkI5n4I" width="1"/>
   <div id="badges">
     <a href="https://vk.com/aruliashka">
-      <img src="https://ru.m.wikivoyage.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:VK.com-logo.svg" alt="VK Badge"/>
+      <img src="https://ru.m.wikivoyage.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:VK.com-logo.svg" alt="VK Badge" width="1"/>
     </a>
     <a href="https://t.me/aruliashka03">
       <img src="https://github.com/badges/shields/blob/master/logo/telegram.svg" alt="Telegram Badge"/>
