@@ -5,7 +5,7 @@
       <img src="https://ru.m.wikivoyage.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:VK.com-logo.svg" alt="VK Badge" width="1"/>
     </a>
     <a href="https://t.me/aruliashka03">
-      <img src="https://github.com/badges/shields/blob/master/logo/telegram.svg" alt="Telegram Badge"/>
+      <img src="https://github.com/badges/shields/blob/master/logo/telegram.svg" alt="Telegram Badge" width="1"/>
     </a>
     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
