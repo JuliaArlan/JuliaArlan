@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/stickers/code-programmer-learn-to-RN8FdaB6T1bkkI5n4I" width="100"/>
   <div id="badges">
     <a href="https://vk.com/aruliashka">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+      <img src="https://ru.m.wikivoyage.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:VK.com-logo.svg" alt="VK Badge"/>
     </a>
     <a href="https://t.me/aruliashka03">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://github.com/badges/shields/blob/master/logo/telegram.svg" alt="Telegram Badge"/>
     </a>
     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
