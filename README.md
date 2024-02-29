@@ -19,11 +19,11 @@
 
 ### :woman_technologist: About Me :
 I am a Machine Learning Engineer and Data Scientist.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m studying in Saint-Petersburg State University of telecommunication named after Prof. M.A. Bonch-Bruevich, on third year
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Interesting in Computer vision and Deep learning.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I like to solve Leetcode problems and Kaggle competitions.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
