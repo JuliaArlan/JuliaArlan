@@ -13,7 +13,7 @@
 
 ### :woman_technologist: About Me :
 I am a Machine Learning Engineer and Data Scientist.
-- :telescope: I’m studying in Saint-Petersburg State University of telecommunication named after Prof. M.A. Bonch-Bruevich, on third year
+- :telescope: I’m studying in Saint-Petersburg State University of telecommunication named after Prof. M.A. Bonch-Bruevich, on forth year
 
 - :seedling: Interesting in Computer vision and Deep learning.
 
